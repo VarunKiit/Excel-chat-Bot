@@ -154,5 +154,3 @@ This project is an **interactive Excel Analytical Chatbot** built using **Python
 This code essentially acts as a **smart Excel assistant**, bridging the gap between **natural language queries** and **pandas-based data analytics**, making it ideal for business analysts, data professionals, or anyone who wants quick insights from Excel data without writing code manually.
 
 ---
-
-Do you want me to do that?
